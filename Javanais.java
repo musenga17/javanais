@@ -43,9 +43,9 @@ public class Javanais {
 	
 	/* 
 	 * Cherche l'indice de la n-ème occurence du caractère c
-	 * la chaîne de caractère mot.
+	 * dans la chaîne de caractère mot.
 	 * Exemple : indiceCaractere("bonjour",'o',2) renvoie 4
-	 * Comme la 2e occurence de 'o' dans "bonjour" se trouve à l'indice 4
+	 * comme la 2e occurence de 'o' dans "bonjour" se trouve à l'indice 4
 	 */
 	 public static int indiceCaractere(String mot, char c, int n) {
 		int occurence = 1;
